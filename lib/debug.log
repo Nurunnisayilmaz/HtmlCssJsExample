@@ -1,0 +1,17 @@
+[0502/011832.930:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0502/011833.248:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[0502/011833.252:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0502/012314.685:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0502/012314.828:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[0502/012314.994:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0502/013807.776:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0502/013807.925:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[0502/013808.052:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0503/172144.972:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0503/213949.643:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0503/214042.931:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0505/050544.293:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0505/050613.494:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0505/193134.513:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0506/045023.644:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
+[0506/045023.826:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Eriþim engellendi. (0x5)
